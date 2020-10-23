@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pennies/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/pennies/static/js/main.ee1ef296.chunk.js",
+    "main.js.map": "/pennies/static/js/main.ee1ef296.chunk.js.map",
+    "runtime-main.js": "/pennies/static/js/runtime-main.ce1dbbfc.js",
+    "runtime-main.js.map": "/pennies/static/js/runtime-main.ce1dbbfc.js.map",
+    "static/js/2.ba01eb43.chunk.js": "/pennies/static/js/2.ba01eb43.chunk.js",
+    "static/js/2.ba01eb43.chunk.js.map": "/pennies/static/js/2.ba01eb43.chunk.js.map",
+    "static/js/3.4468a6a4.chunk.js": "/pennies/static/js/3.4468a6a4.chunk.js",
+    "static/js/3.4468a6a4.chunk.js.map": "/pennies/static/js/3.4468a6a4.chunk.js.map",
+    "index.html": "/pennies/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/pennies/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ba01eb43.chunk.js.LICENSE.txt": "/pennies/static/js/2.ba01eb43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce1dbbfc.js",
+    "static/js/2.ba01eb43.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ee1ef296.chunk.js"
+  ]
+}
